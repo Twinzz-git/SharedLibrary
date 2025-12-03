@@ -38,4 +38,5 @@ public abstract class HttpServer
             Console.WriteLine("Server stopped.");
         }
     }
+
 }
